@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 5px;
+  box-sizing: border-box;
+}
+/* Nav styles */
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Roboto", sans-serif;
+}
+
+/* -------------------------- */
+/* -------------------------- */
+/* Nav--Items */
+.nav--items {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  column-gap: 20px;
+}
